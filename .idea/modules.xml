@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlueToothScale.iml" filepath="$PROJECT_DIR$/BlueToothScale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibrarySocialLogins/LibrarySocialLogins.iml" filepath="$PROJECT_DIR$/LibrarySocialLogins/LibrarySocialLogins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleAmazonCognito/ModuleAmazonCognito.iml" filepath="$PROJECT_DIR$/ModuleAmazonCognito/ModuleAmazonCognito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleAmazonRekognition/ModuleAmazonRekognition.iml" filepath="$PROJECT_DIR$/ModuleAmazonRekognition/ModuleAmazonRekognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleGoogleVision/ModuleGoogleVision.iml" filepath="$PROJECT_DIR$/ModuleGoogleVision/ModuleGoogleVision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleUSDANutirentDatabase/ModuleUSDANutirentDatabase.iml" filepath="$PROJECT_DIR$/ModuleUSDANutirentDatabase/ModuleUSDANutirentDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

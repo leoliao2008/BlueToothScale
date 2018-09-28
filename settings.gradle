@@ -1,0 +1,1 @@
+include ':app', ':ModuleAmazonCognito', ':ModuleGoogleVision', ':ModuleUSDANutirentDatabase', ':ModuleAmazonRekognition',':LibrarySocialLogins'
